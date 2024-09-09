@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://app.daily.dev/adalris"><img src="https://api.daily.dev/devcards/v2/Sz6shhmYjutWItkzFXPGr.png?type=default&r=fbg" width="356" alt="Andrew Latour's Dev Card"/></a>
+<a href="https://app.daily.dev/adalris"><img src="devcard.png" width="356" alt="AJ Latour's Dev Card"/></a>
 
 <!--
 **ajlatour/ajlatour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
