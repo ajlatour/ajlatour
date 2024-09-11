@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+2024
+September
+9: Worked on Concurrency and Select chapters of 'Learn Go with tests' https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency
